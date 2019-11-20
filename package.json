@@ -60,5 +60,6 @@
   },
   "peerDependencies": {
     "webpack": "^3.0.0 || ^4.0.0"
-  }
+  },
+  "resolutions": { "sharp": "0.23.2" }
 }
